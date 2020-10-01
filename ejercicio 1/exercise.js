@@ -1,7 +1,7 @@
-var x1 = prompt("Primera coordenada en x");//(x1)
-var x2 = prompt("Segunda coordenada en x");//(y1)
-var y1 = prompt("Primera coordenada en y");//(x2)
-var y2 = prompt("Segunda coordenada en y");//(y2)
+let x1 = prompt("Primera coordenada en x");//(x1)
+let x2 = prompt("Segunda coordenada en x");//(y1)
+let y1 = prompt("Primera coordenada en y");//(x2)
+let y2 = prompt("Segunda coordenada en y");//(y2)
 
 if(x1 == null || x2 == ""|| y1   == null || y2 == ""||x2 == null || x1 == ""|| y2   == null || y1 == ""){
     alert("ERROR");//console.log()

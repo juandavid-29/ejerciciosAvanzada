@@ -1,8 +1,8 @@
 
 function captura() 
 {
-var mensaje;
-var opcion = prompt("Introduzca su código:", "Codigo de nave");
+let mensaje;
+let opcion = prompt("Introduzca su código:", "Codigo de nave");
  
 		if (opcion == null || opcion == "") 
 		{

@@ -1,10 +1,10 @@
 
 function captura() 
 {
-	var nombre = prompt("Introduzca el nombre del padawan:", "nombre");
-	var planeta = prompt("Introduzca el planeta del padawan:", "planeta");
-	var estatura  = prompt("Introduzca la estatura del padawan:", "estatura");
-	var edad = prompt("Introduzca la edad del padawan:", "edad");
+	let nombre = prompt("Introduzca el nombre del padawan:", "nombre");
+	let planeta = prompt("Introduzca el planeta del padawan:", "planeta");
+	let estatura  = prompt("Introduzca la estatura del padawan:", "estatura");
+	let edad = prompt("Introduzca la edad del padawan:", "edad");
 
  	if (edad < 15) 
  	{
